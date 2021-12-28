@@ -1,5 +1,0 @@
-def fit:
-def predict(x,m,c):
-def CD(ypred,ytest):
-def Cost(x,y,m,c):
-
