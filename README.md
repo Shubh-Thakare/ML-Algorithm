@@ -33,3 +33,6 @@ Machine Learning Course May 2018
 30. [Lecture 30 LSTM](https://github.com/thedivyanshuyadav/MachineLearning_CodingNinjas/tree/master/Lecture%2030%20LSTM)
 31. [Lecture 31 Unsupervised Learning](https://github.com/thedivyanshuyadav/MachineLearning_CodingNinjas/tree/master/Lecture%2031%20Unsupervised%20Learning)
 32. [Lecture 32 Unsupervised Learning-2](https://github.com/thedivyanshuyadav/MachineLearning_CodingNinjas/tree/master/Lecture%2032%20Unsupervised%20Learning-2)
+
+Data science coarse
+https://www.dropbox.com/sh/mui5laz1h0wsz2n/AAADxLmvSMEFAikw5mu1yMxga?dl=0
